@@ -1,7 +1,7 @@
 ## Overview
 
 This framework combines three main components: **error detection**, **error correction**, and **error explanation**.  
-It identifies errors in datasets, corrects them, and explains the corrections.
+It detects and corrects data errors, and explains why the model flagged a value as incorrect, including which features contributed to that decision.
 
 The framework uses datasets from the PMLB repository:  
 https://github.com/EpistasisLab/pmlb
