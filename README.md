@@ -6,6 +6,15 @@ It detects and corrects data errors, and explains why the model flagged a value 
 The framework uses datasets from the PMLB repository:  
 https://github.com/EpistasisLab/pmlb
 
+CDC:
+https://github.com/calgo-lab/conformal-data-cleaning
+
+Error-Injection:
+https://github.com/calgo-lab/tab_err/tree/main
+
+Explain-Errors:
+https://auto.gluon.ai/dev/tutorials/eda/components/autogluon.eda.explain.html
+
 ---
 
 ## How to Run the Project
